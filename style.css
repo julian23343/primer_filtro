@@ -1,0 +1,25 @@
+.tablaa{
+    margin: 30px;
+}
+
+.btn-outline-success{
+    margin: 30px;
+}
+.btn-primary{
+    margin: 30px;
+}
+body{
+    margin-bottom: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: initial;
+}
+
+.slide{
+    width:1000px;
+    margin: 15% auto;
+}
+.container{
+    background-color: azure;
+    
+}
